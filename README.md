@@ -4,6 +4,7 @@
 
 - [ ] Kami Benar Benar Menyembunyikan Perintah NSFW Dari Layar Pengguna
 - [ ] Menambahkan Beberapa Perintah Hanya Untuk Pengguna Premium
+- [ ] Membatasi Penggunaan Perintah Berbasis Admin Hanya Untuk Admin (Moderasi)
 
 <h5>Pembaruan Sistem Utama</h5>
 
