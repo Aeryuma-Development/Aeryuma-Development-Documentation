@@ -18,3 +18,10 @@
 - [ ] Membuat Pusat Verifikasi Bot
 - [ ] Menyediakan Sistem Verifikasi Lv1 (Melalui Command)
 - [ ] Menyediakan Sistem Verifikasi Lv2 (Melalui Website Verifikasi)
+
+<h4>Planning Website</h4>
+
+- [ ] Menyediakan Website Utama, Untuk Memperkenalkan Aeryuma Kepada Publik
+- [ ] Menyediakan Website Untuk Bot
+-- [ ] Zarunya Network
+-- [ ] Narunya Network
