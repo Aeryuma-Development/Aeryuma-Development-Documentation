@@ -21,7 +21,7 @@
 
 <h4>Planning Website</h4>
 
-- [ ] Menyediakan Website Utama, Untuk Memperkenalkan Aeryuma Kepada Publik
+- [x] Menyediakan Website Utama, Untuk Memperkenalkan Aeryuma Kepada Publik
 - [ ] Menyediakan Website Untuk Bot
 - - [ ] Zarunya Network
 - - [ ] Narunya Network
