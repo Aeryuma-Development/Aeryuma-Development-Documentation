@@ -23,5 +23,5 @@
 
 - [ ] Menyediakan Website Utama, Untuk Memperkenalkan Aeryuma Kepada Publik
 - [ ] Menyediakan Website Untuk Bot
--- [ ] Zarunya Network
--- [ ] Narunya Network
+- - [ ] Zarunya Network
+- - [ ] Narunya Network
