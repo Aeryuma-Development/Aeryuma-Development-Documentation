@@ -26,3 +26,6 @@
 - [ ] Menyediakan Website Untuk Bot
 - - [ ] Zarunya Network
 - - [ ] Narunya Network
+- - [ ] Ogiwara Sayu
+- [ ] Menyediakan Website Dokumentasi Developer
+- [ ] Menyediakan Website Untuk Guide
