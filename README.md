@@ -1,4 +1,4 @@
-# Planning-Bot-Discord
+<h4>Planning Bot Discord</h4>
 
 <h5>Izin</h5>
 
