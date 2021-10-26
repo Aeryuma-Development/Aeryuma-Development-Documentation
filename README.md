@@ -16,7 +16,7 @@
 
 <h5>Sistem Verifikasi Bot Game</h5>
 
-- [ ] Membuat Pusat Verifikasi Bot
+- [x] Membuat Pusat Verifikasi Bot (AVC)
 - [ ] Menyediakan Sistem Verifikasi Lv1 (Melalui Command)
 - [ ] Menyediakan Sistem Verifikasi Lv2 (Melalui Website Verifikasi)
 
@@ -29,3 +29,4 @@
 - - [ ] Ogiwara Sayu
 - [ ] Menyediakan Website Dokumentasi Developer
 - [ ] Menyediakan Website Untuk Guide
+- [ ] Menyediakan Website Verfikasi
