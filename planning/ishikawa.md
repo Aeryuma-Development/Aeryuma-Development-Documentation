@@ -3,17 +3,18 @@
 > **Full Release v1.0.0 :**
 
 ```
-- 5 Area = 3 Forests, 2 Mountains
+- 5 Area : 3 Forests, 2 Mountains
 - 5 Types of Weapons + Armor : Wood, Stone, Iron, Steel, Gold Equipment
 - Lvl 1 - 50
+- New Story Chapter 1 - 5
 ```
 
 > **Full Release v1.2.0 (Mine Update Part 1):**
 
 ```
+- 3 Area : 2 Cave, 1 Mining Cave
 - 3 Types of Weapons + Armor : Emerald, Aquamarine, Garnet Equipment
 - New Collective Items: Emerald, Aquamarine, Garnet, Spider Meat, Cobweb
-- New Weapon : Bow
 - Lvl 51 - 75 (Fast XP +10%)
 - Duel System
 - Daily System
@@ -23,11 +24,13 @@
 > **Full Release v1.2.5 (Mine Update Part 2) :**
 
 ```
+- 3 Area : 1 Mining Cave, 2 Abandoned Mining Cave
 - 3 Types of Weapons + Armor : Diamond, Ruby, Sapphire Equipment
 - New Collective Items: Diamond, Ruby, Sapphire, Giant Spider Eye, Black Steel, Enchanted Gold, XP Tier 1 Bottle
 - Lvl 76 - 100 (Fast XP +10%)
 - Duel System
 - Update Profile Command UI
+- PVP Mode (This Feature Unlocked In Area 4)
 ```
 
 > **Full Release v1.4.0 (Ocean Update) :**
