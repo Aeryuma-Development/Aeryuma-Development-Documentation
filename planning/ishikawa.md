@@ -6,7 +6,7 @@
 - 5 Area : 3 Forests, 2 Mountains
 - 5 Types of Weapons + Armor : Wood, Stone, Iron, Steel, Gold Equipment
 - Lvl 1 - 50
-- New Story Chapter 1 - 5
+- New Story Chapter 1.1 - 1.5
 ```
 
 > **Full Release v1.2.0 (Mine Update Part 1):**
