@@ -5,7 +5,7 @@
 ```
 - 5 Area : 3 Forests, 2 Mountains
 - 5 Types of Weapons + Armor : Wood, Stone, Iron, Steel, Gold Equipment
-- Lvl 1 - 50
+- Lvl 1 - 30
 - New Story Chapter 1.1 - 1.5
 ```
 
@@ -15,6 +15,26 @@
 |----|------|--|----|----|
 |Goblin| 10/hit | 40 | 1 | 117 - 130 |
 |Hobgoblin| 5/hit | 25 | 1 | 91 - 116 |
+
+- **Level v1.0.0**
+
+|Level | Exp |
+|---|---|
+|1 | |
+|2 | |
+|3 | |
+|4 | |
+|5 | |
+|6 | |
+|7 | |
+|8 | |
+|9 | |
+|10 | |
+|11 | |
+|12 | |
+|13 | |
+|14 | |
+|15 | |
 
 -----------------
 
