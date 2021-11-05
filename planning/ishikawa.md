@@ -11,10 +11,10 @@
 
 - **Monster v1.0.0**
 
-|Name|Damage|HP|Area|Gold    |
-|----|------|--|----|--------|
-|Goblin| 10/hit | 40 | 1 | 117 - 130
-|Hobgoblin| 5/hit | 25 | 1 | 91 - 116
+|Name|Damage|HP|Area|Gold|
+|----|------|--|----|----|
+|Goblin| 10/hit | 40 | 1 | 117 - 130 |
+|Hobgoblin| 5/hit | 25 | 1 | 91 - 116 |
 
 -----------------
 
@@ -32,6 +32,8 @@
 - New Story Chapter 1.6 - 1.9
 ```
 
+-----------------
+
 > **Full Release v1.2.5 (Mine Update Part 2) :**
 
 ```
@@ -45,6 +47,8 @@
 - New Story Chapter 1.10 - 1.12
 ```
 
+-----------------
+
 > **Full Release v1.4.0 (Ocean Update) :**
 
 ```
@@ -54,6 +58,8 @@
 - Lvl 101 - 300 (Fast XP +50%)
 - New Story Chapter 1.13 - 1.14
 ```
+
+-----------------
 
 > **Full Release v.1.5.0 (Ancient Update) :**
 
@@ -65,6 +71,8 @@
 - New Story Chapter 1.15 - 1.17
 ```
 
+-----------------
+
 > **Full Release v.1.7.0 (Crystal Update) :**
 
 ```
@@ -73,3 +81,5 @@
 - Lvl 1201 - 2000 (Fast Xp +200%)
 - New Story Chapter 1.18 - 1.21
 ```
+
+-----------------
