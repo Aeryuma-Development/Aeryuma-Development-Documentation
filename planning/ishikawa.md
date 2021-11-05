@@ -16,6 +16,7 @@
 |Goblin| 20/hit | 60 | 1 |
 |Hobgoblin| 5/hit | 25 | 1 |
 
+-----------------
 
 > **Full Release v1.2.0 (Mine Update Part 1):**
 
