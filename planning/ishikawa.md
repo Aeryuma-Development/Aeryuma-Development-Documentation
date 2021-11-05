@@ -1,4 +1,4 @@
-<h3>**v1.0.0 (Starting Island)**</h3>
+<h3>v1.0.0 (Starting Island)</h3>
 
 > **Full Release v1.0.0 :**
 
