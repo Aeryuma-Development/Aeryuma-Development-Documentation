@@ -9,6 +9,9 @@
 - New Story Chapter 1.1 - 1.5
 ```
 
+|Name|Damage|HP|Area|
+|----|------|--|----|
+
 > **Full Release v1.2.0 (Mine Update Part 1):**
 
 ```
