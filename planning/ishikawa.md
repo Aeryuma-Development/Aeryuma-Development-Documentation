@@ -8,7 +8,9 @@
 - Lvl 1 - 30
 - New Story Chapter 1.1 - 1.5
 ```
+
 - **Area v1.0.0**
+
 |Area | Name | Boss |
 | --- | --- | --- |
 | 1 | Sinrise Fotrest | Goblin King |
