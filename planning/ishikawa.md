@@ -8,10 +8,10 @@
 - Lvl 1 - 50
 - New Story Chapter 1.1 - 1.5
 ```
-|      Monster      |
-|-------------------|
+
 |Name|Damage|HP|Area|
 |----|------|--|----|
+|Goblin| 20/s | 60 | 1 |
 
 > **Full Release v1.2.0 (Mine Update Part 1):**
 
