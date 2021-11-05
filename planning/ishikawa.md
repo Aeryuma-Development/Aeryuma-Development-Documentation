@@ -8,7 +8,8 @@
 - Lvl 1 - 50
 - New Story Chapter 1.1 - 1.5
 ```
-
+|      Monster      |
+|-------------------|
 |Name|Damage|HP|Area|
 |----|------|--|----|
 
