@@ -11,8 +11,8 @@
 
 - **Monster v1.0.0**
 
-|Name|Damage|HP|Area|Gold|
-|----|------|--|----|----|
+|Name|Damage|HP|Area|Gold    |
+|----|------|--|----|--------|
 |Goblin| 10/hit | 40 | 1 | 117 - 130
 |Hobgoblin| 5/hit | 25 | 1 | 91 - 116
 
