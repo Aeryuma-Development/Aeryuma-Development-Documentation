@@ -8,6 +8,12 @@
 - Lvl 1 - 30
 - New Story Chapter 1.1 - 1.5
 ```
+- **Area v1.0.0**
+|Area | Name | Boss |
+| --- | --- | --- |
+| 1 | Sinrise Fotrest | Goblin King |
+| 2 | Pyuran Fotrest | Wolf King |
+| 3 | Himizaku Fotrest | Monkey King |
 
 - **Monster v1.0.0**
 
