@@ -9,7 +9,7 @@
 - New Story Chapter 1.1 - 1.5
 ```
 
-**Monster v1.0.0**
+- **Monster v1.0.0**
 
 |Name|Damage|HP|Area|
 |----|------|--|----|
