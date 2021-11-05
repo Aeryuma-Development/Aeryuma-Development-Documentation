@@ -16,6 +16,7 @@
 |Goblin| 10/hit | 40 | 1 | 117 - 130 |
 |Hobgoblin| 5/hit | 25 | 1 | 91 - 116 |
 
+- **Level v1.0.0** [Check](https://github.com/Aeryuma-Development/Team-Planning/blob/main/something/ishikawa/level.md#level-v100)
 -----------------
 
 > **Full Release v1.2.0 (Mine Update Part 1):**
