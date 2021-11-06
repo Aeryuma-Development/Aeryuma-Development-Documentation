@@ -8,7 +8,7 @@
 
 <h5>Pembaruan Sistem Utama</h5>
 
-- [ ] Membuat Self Uptime Untuk Setiap Bot Agar Terus Aktif
+- [X] Membuat Self Uptime Untuk Setiap Bot Agar Terus Aktif
 - [x] Membuat Sebuah Sistem Perhitungan Jumblah Server
 - [ ] Menambahkan Fitur Premium Pada Bot Kami
 - [ ] Menghubungkan Basis data Dengan Website Bot
