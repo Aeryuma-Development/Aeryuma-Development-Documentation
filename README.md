@@ -13,6 +13,7 @@
 - [ ] Menambahkan Fitur Premium Pada Bot Kami
 - [ ] Menghubungkan Basis data Dengan Website Bot
 - [x] Memberikan Cooldown Pada Setiap Perintah Bot
+- [ ] Membuat Inti Control
 
 <h5>Sistem Verifikasi Bot Game</h5>
 
