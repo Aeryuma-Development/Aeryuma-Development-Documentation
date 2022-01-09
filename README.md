@@ -31,3 +31,7 @@
 - [ ] Menyediakan Website Dokumentasi Developer
 - [ ] Menyediakan Website Untuk Guide
 - [ ] Menyediakan Website Verfikasi
+
+<h4>Constellar Engine Project</h4>
+- [x] Constellar Discord
+- [ ] Constellar Telegram
