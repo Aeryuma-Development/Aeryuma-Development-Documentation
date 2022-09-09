@@ -4,12 +4,12 @@
 - [ ] Menyelesaikan Constellar
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
-- [✓] Owner Lock Command
-- [✓] Configurated Lock Command
+- [X] Owner Lock Command
+- [X] Configurated Lock Command
 - [ ] Stats Logs
 - [ ] Command Logs
 - [ ] Premium Support
-- [✓] Help Command (All)
+- [X] Help Command (All)
 - [ ] Stats Command
 
 ## Account Manager
