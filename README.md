@@ -8,11 +8,12 @@
 - [X] Configurated Lock Command
 - [ ] Stats Logs
 - [ ] Command Logs
-- [ ] Premium Support
 - [X] Help Command (All)
 - [ ] Stats Command
+- [ ] Melengkapi Avatar Bot (All)
+- [ ] Pembaruan About Me (All)
 
-## Account Manager
+## Forum
 - [ ] Login System
 - [ ] Signup System
 - [ ] Connect To Discord 
@@ -21,3 +22,10 @@
 - [ ] Profile System
 - [ ] Premium Connected
 - [ ] Game Stats Connnected
+
+## Other Web
+- [ ] Main Web Aeryuma
+- [ ] Status Bot
+- [ ] Changelog Bot
+- [ ] Documentation Bot
+- [ ] Support Web
