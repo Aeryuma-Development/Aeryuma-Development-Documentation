@@ -13,6 +13,19 @@
 - [ ] Melengkapi Avatar Bot (All)
 - [ ] Pembaruan About Me (All)
 
+## Bot Guilded
+- [ ] Menyelesaikan Constellar
+- [ ] Nsfw Lock Command
+- [ ] Cooldown Command
+- [ ] Owner Lock Command
+- [ ] Configurated Lock Command
+- [ ] Stats Logs
+- [ ] Command Logs
+- [ ] Help Command (All)
+- [ ] Stats Command
+- [ ] Melengkapi Avatar Bot (All)
+- [ ] Pembaruan About Me (All)
+
 ## Forum
 - [ ] Login System
 - [ ] Signup System
