@@ -5,7 +5,7 @@
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
 - [X] Owner Lock Command (Deprecated)
--- [ ] Administrator Lock With Level
+> - [ ] Administrator Lock With Level
 - [X] Configurated Lock Command
 - [ ] Stats Logs
 - [ ] Command Logs
@@ -19,7 +19,7 @@
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
 - [ ] Owner Lock Command (Deprecated)
--- [ ] Administrator Lock With Level
+> - [ ] Administrator Lock With Level
 - [ ] Configurated Lock Command
 - [ ] Stats Logs
 - [ ] Command Logs
