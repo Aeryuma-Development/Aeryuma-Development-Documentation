@@ -1,6 +1,20 @@
 # Todo List Staff
 
-## Bot Discord
+### Last Update :
+
+```txt
+Database: v.1.0.0 (Lvyvra)
+WhatsApp Navely: v.22.11.21
+WhatsApp Sicily: v.22.11.21
+Asuka Hana: Untitled
+Bunga Anischa: Untitled
+Putri Cantika: Untitled
+Alicia Maura: Untitled
+```
+
+### Todo List :
+
+#### Bot Discord
 - [ ] Menyelesaikan Constellar
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
@@ -14,7 +28,7 @@
 - [ ] Melengkapi Avatar Bot (All)
 - [ ] Pembaruan About Me (All)
 
-## Bot Guilded
+#### Bot Guilded
 - [ ] Menyelesaikan Constellar
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
@@ -28,7 +42,7 @@
 - [ ] Melengkapi Avatar Bot (All)
 - [ ] Pembaruan About Me (All)
 
-## Bot WhatsApp
+#### Bot WhatsApp
 - [ ] Menyelesaikan Constellar
 - [ ] Nsfw Lock Command
 - [ ] Cooldown Command
@@ -42,7 +56,7 @@
 - [ ] Melengkapi Avatar Bot (All)
 - [ ] Pembaruan About Me (All)
 
-## Forum
+#### Forum
 - [ ] Login System
 - [ ] Signup System
 - [ ] Connect To Discord 
@@ -52,7 +66,7 @@
 - [ ] Premium Connected
 - [ ] Game Stats Connnected
 
-## Other Web
+#### Other Web
 - [ ] Main Web Aeryuma
 - [ ] Status Bot
 - [ ] Changelog Bot
