@@ -4,7 +4,8 @@ Aeryuma Development ("We", "Our", "Us"), User ("You"), Aeryuma Staff ("I")
 ```
 Here We Will Reveal What Data We Need From Users. All This Depends On What Bot, Which Platform, And What Bot Features
 
-> **-- WHAT WE USE AND USE FOR --**
+**-- WHAT WE USE AND USE FOR --**
+
 > 
 > **Website**
 > For our website, we need a variety of data that we don't really need. but this data can secure your account and back up your account if your account is lost.
